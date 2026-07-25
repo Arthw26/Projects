@@ -1,0 +1,12 @@
+# Embedded & IoT Projects
+
+Collection of my Embedded Systems and IoT projects.
+
+## Projects List
+1. Smart Waste Management System Project-1/ - Developed a project called- Smart Waste Management System that automatically classifies waste into diff. categories.
+2. Flood monitoring & Cause Classification System Project-2/ - developed a projecct called- Flood monitoring (with prediction) & cause classification System. which can also alert the user.
+
+## Tech Stack
+- Microcontrollers: Arduino, ESP32, GSM
+- Languages: C, C++, 
+- Tools: Arduino IDE, Proteus, Blynk, Firebase
