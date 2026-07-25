@@ -16,13 +16,13 @@ Smart Dustbin that classifies Waste automatically, Helps in efficient waste coll
 - Sensors ( Ultrasonic, Inductive Proximity, IR, Moisture Sensor etc.)
 
 ## Block Diagram
-![Block Diagram](docs/block-diagram.png)
+![Block Diagram](docs/Wastemanagementbd.jpeg)
 
 ## Circuit Diagram
-![Circuit](docs/circuit.png)
+![Circuit](docs/Wastemanagementcktdiagram.jpeg)
 
 ## Code
 Check the `/code` folder for Arduino code
 
 ## Documentation
-[Download Project Report PDF](docs/report.pdf)
+[Download Project Report PDF](docs/wastemanagement.pdf)
