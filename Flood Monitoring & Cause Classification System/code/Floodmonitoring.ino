@@ -14,11 +14,11 @@ FirebaseData fbdo;
 FirebaseAuth auth;
 FirebaseConfig config;
 
-const char* ssid = "Arth";
-const char* password = "11111112";
+const char* ssid = "";
+const char* password = "";
 
-String apiKey = "AIzaSyAxyL_QmQZD6QB0GiXNMgK7mnuVNhvSJwk";
-String databaseURL = "https://flood-monitoring-dde28-default-rtdb.firebaseio.com";
+String apiKey = "";
+String databaseURL = "";
 
 float previousLevel = 0;
 float flowRate = 0;
